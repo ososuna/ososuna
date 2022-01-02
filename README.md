@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🤓
 
 - 💻 I’m currently working on GE Aviation
 - 🔭 I’m currently studying on Universidad Anáhuac Querétaro
@@ -12,4 +12,4 @@
   - 📷 os_osuna on instagram
   - 💬 os_osuna13 on twitter
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love cats and coffee 🐈‍⬛☕️
+- ⚡ Fun fact: I love cats and coffee 🐈‍⬛ ☕️
