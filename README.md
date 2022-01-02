@@ -7,9 +7,9 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me:
-- +52 (669) 941 78 46
-- oswaldo.adrian@live.com.mx
-- os_osuna on instagram
-- os_osuna13 on twitter
+  - +52 (669) 941 78 46
+  - oswaldo.adrian@live.com.mx
+  - os_osuna on instagram
+  - os_osuna13 on twitter
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love cats 🐈‍⬛
