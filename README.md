@@ -14,5 +14,3 @@
   - 💬 os_osuna13 on twitter
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love cats and coffee 🐈‍⬛ ☕️
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ososuna)](https://github.com/anuraghazra/github-readme-stats)
