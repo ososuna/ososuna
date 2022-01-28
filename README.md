@@ -1,8 +1,8 @@
 ### Hi there 🤠
 
-- 💻 I’m currently working at GE Aviation
-- 🔭 I’m currently studying my sixth semester of Software Engineering
-- 🌱 I’m currently learning web development and data science
+- 💻 Working at GE Aviation
+- 🔭 Studying my sixth semester of Software Engineering
+- 🌱 Learning web development and data science
 - ⌨️ Hands-on Vue.js, Ionic Framework, Node.js, Spring Boot, Python, SQL...
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
