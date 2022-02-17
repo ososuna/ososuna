@@ -18,4 +18,4 @@
 <img width="380" src="https://github.com/ososuna/ososuna/blob/master/anime-dev.gif"/>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ososuna&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="ososuna" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ososuna&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&hide=Jupyter Notebook, CSS" alt="ososuna" align = "center"/></p>
+<img height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?ososuna" alt="ososuna" align = "center"/></p>
