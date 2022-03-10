@@ -1,17 +1,17 @@
-### Hi there 🤠
+### hi there 🤠
 
-- 💻 Working at GE Aviation
-- 🔭 Studying my sixth semester of Software Engineering
-- 🌱 Learning web development and data science
-- ⌨️ Hands-on Vue.js, Ionic Framework, Node.js, Spring Boot, Python, SQL...
+- 💻 working at GE aviation
+- 🔭 studying my sixth semester of software engineering
+- 🌱 learning web development and data science
+- ⌨️ hands-on vue.js, ionic framework, node.js, spring boot, python, SQL...
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me:
+- 📫 how to reach me:
   - ✉️ oswaldo.adrian@live.com.mx
   - 📷 os_osuna on instagram
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love cats and coffee 🐈‍⬛ ☕️
+- ⚡ fun fact: I love cats and coffee 🐈‍⬛ ☕️
 
 <img width="380" src="https://github.com/ososuna/ososuna/blob/master/anime-dev.gif"/>
 
