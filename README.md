@@ -7,9 +7,9 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 how to reach me:
-  - ✉️ oswaldo.adrian@live.com.mx
-  - 📷 os_osuna on instagram
+<!-- - 📫 how to reach me: -->
+<!--  - ✉️ oswaldo.adrian@live.com.mx -->
+<!--  - 📷 os_osuna on instagram -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ fun fact: I love cats and coffee 🐈‍⬛ ☕️
 
