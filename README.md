@@ -1,6 +1,6 @@
 ### hi there 🤠
 
-- 💻 working at GE aviation
+- 💻 software development intern at GE aviation
 - 🔭 studying my sixth semester of software engineering
 - 🌱 learning web development and data science
 - ⌨️ hands-on vue.js, ionic framework, node.js, spring boot, python, SQL...
