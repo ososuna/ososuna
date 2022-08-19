@@ -15,4 +15,6 @@
 
 <img width="380" src="https://github.com/ososuna/ososuna/blob/master/anime-dev.gif"/>
 
+
+[![ososuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ososuna)](https://github.com/anuraghazra/github-readme-stats)
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ososuna&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="ososuna" align = "center"/>
