@@ -1,9 +1,9 @@
-### hi there 🤠
+### Hi there 🤠
 
-- 💻 software development intern at GE aviation
-- 🔭 studying my seventh semester of software engineering
-- 🌱 learning web development and data science
-- ⌨️ hands-on vue.js, spring framework, typescript, mongodb, SQL...
+- 💻 Software Development Intern at GE Aviation
+- 🔭 Studying my seventh semester of Software Engineering
+- 🌱 Learning web development and data science
+- ⌨️ Hands-on Vue.js, Spring Framework, TypeScript, MongoDB, SQL...
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -11,7 +11,7 @@
 <!--  - ✉️ oswaldo.adrian@live.com.mx -->
 <!--  - 📷 os_osuna on instagram -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ fun fact: I love cats and coffee 🐈‍⬛ ☕️
+- ⚡ Fun fact: I love cats and coffee 🐈‍⬛ ☕️
 
 <img width="380" src="https://github.com/ososuna/ososuna/blob/master/anime-dev.gif"/>
 
