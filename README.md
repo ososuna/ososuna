@@ -16,5 +16,5 @@
 <img width="380" src="https://github.com/ososuna/ososuna/blob/master/anime-dev.gif"/>
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ososuna&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="ososuna"/>
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ososuna&layout=compact&theme=radical&hide=Jupyter%20Notebook,html,css,scss,less&langs_count=6" alt="ososuna"/>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ososuna&layout=compact&theme=radical&hide=Jupyter%20Notebook,html,css,scss,less,handlebars&langs_count=6" alt="ososuna"/>
   
