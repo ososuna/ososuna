@@ -1,4 +1,4 @@
-### Hi there 🤠
+### Hello there 🤠
 
 - 💻 Software Development Intern at GE Aviation
 - 🔭 Studying my seventh semester of Software Engineering
