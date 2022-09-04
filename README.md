@@ -3,7 +3,7 @@
 - 💻 Software Development Intern at GE Aviation
 - 🔭 Studying my seventh semester of Software Engineering
 - 🌱 Learning web development and data science
-- ⌨️ Hands-on Vue.js, Spring Framework, TypeScript, MongoDB, SQL...
+- ⌨️ Hands-on Vue.js, Spring Framework, TypeScript, Docker, MongoDB, PostgreSQL, SQL...
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
