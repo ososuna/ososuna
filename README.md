@@ -1,7 +1,7 @@
 ### Hello there 🤠
 
 - 💻 Software Development Intern at GE Aerospace
-- 🔭 Studying my seventh semester of Software Engineering
+- 🔭 Studying my last semester of Software Engineering
 - 🌱 Learning web development and software architecture
 - ⌨️ Hands-on Spring Framework, Vue.js, Docker, AWS, MongoDB, SQL...
 <!-- - 👯 I’m looking to collaborate on ... -->
