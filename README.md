@@ -14,6 +14,3 @@
 - ⚡ Fun fact: I love cats and coffee 🐈‍⬛ ☕️
 
 <img width="380" src="https://github.com/ososuna/ososuna/blob/master/anime-dev.gif"/>
-
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ososuna&layout=compact&theme=radical&hide=Jupyter%20Notebook,html,css,scss,less,handlebars&langs_count=6" alt="ososuna" align="center"/></p>
-  
