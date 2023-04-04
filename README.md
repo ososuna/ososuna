@@ -1,6 +1,6 @@
 ### Hello there 🤠
 
-- 💻 Software Development Intern at Oracle
+- 💻 Software Developer at Oracle
 - 🔭 Studying my last semester of Software Engineering
 - 🌱 Learning web development and software architecture
 - ⌨️ Hands-on Spring Framework, Vue.js, Docker, AWS, MongoDB, SQL...
