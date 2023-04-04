@@ -3,7 +3,7 @@
 - 💻 Software Developer at Oracle
 - 🔭 Studying my last semester of Software Engineering
 - 🌱 Learning web development and software architecture
-- ⌨️ Hands-on Spring Framework, Vue.js, Docker, AWS, MongoDB, SQL...
+- ⌨️ Hands-on Spring Framework, React, Vue.js, Docker, AWS, MongoDB, SQL...
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
