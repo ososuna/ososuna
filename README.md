@@ -1,7 +1,7 @@
 ### Hello there 🤠
 
 - 💻 Software Developer at Oracle
-- 🔭 Studying my last semester of Software Engineering
+- 🔭 Fresh graduate of Software Engineering
 - 🌱 Learning web development and software architecture
 - ⌨️ Hands-on Spring Framework, React, Vue.js, Docker, AWS, MongoDB, SQL...
 <!-- - 👯 I’m looking to collaborate on ... -->
