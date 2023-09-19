@@ -2,8 +2,6 @@
 
 - 💻 Software Developer at Oracle
 - 🔭 Fresh graduate of Software Engineering
-- 🌱 Learning web development and software architecture
-- ⌨️ Hands-on Spring Framework, React, Vue.js, Docker, AWS, MongoDB, SQL...
 - ⚡ Fun fact: I love cats and coffee 🐈‍⬛ ☕️
 - 😄 Pronouns: he/him
 <!-- - 👯 I’m looking to collaborate on ... -->
