@@ -1,7 +1,6 @@
 ### Hello there 🤠
 
-- 💻 Software Developer at Oracle
-- 🔭 Fresh graduate of Software Engineering
+- 💻 Software Engineer
 - ⚡ Fun fact: I love cats and coffee 🐈‍⬛ ☕️
 - 😄 Pronouns: he/him
 <!-- - 👯 I’m looking to collaborate on ... -->
