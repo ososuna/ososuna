@@ -1,6 +1,6 @@
 ### Hello there 🤠
 
-- 💻 Software Engineer
+- 💻 Full Stack Developer with 5 years of experience
 - ⚡ Fun fact: I love cats and coffee 🐈‍⬛ ☕️
 - 😄 Pronouns: he/him
 <!-- - 👯 I’m looking to collaborate on ... -->
